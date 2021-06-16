@@ -12,12 +12,18 @@
  
 - 👀 I’m interested in `Front end development` <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"  width="500"              height="300" />
 - 🌱 I’m currently learning `React.js` 
-- 📫 How to contact me: <br>
-    :e-mail:	maheshsangeet0@gmail.com  &nbsp;
+- 📫 How to contact me: 
+   <a href="maheshsangeet0@gmail.com "> :e-mail:</a> 
+   <a href="8660804309"> :iphone:</a> 
+   <a href="https://www.linkedin.com/in/mahesh-sangeet/">
+        <img  alt="Mahesh's LinkedIN" height="18px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+     </a>
+
+<!--     :e-mail:	maheshsangeet0@gmail.com  &nbsp;
    :iphone: 8660804309 &nbsp;
    <a href="https://www.linkedin.com/in/mahesh-sangeet/">
         <img  alt="Mahesh's LinkedIN" height="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-     </a> 
+     </a>  -->
 
  &nbsp;
  &nbsp;
