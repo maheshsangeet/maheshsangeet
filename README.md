@@ -12,20 +12,28 @@
  
 - 👀 I’m interested in `Front end development` <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"  width="500"              height="300" />
 - 🌱 I’m currently learning `React.js` 
-- 📫 How to contact me: | :e-mail:	maheshsangeet0@gmail.com | :iphone: 8660804309 |<a href="https://www.linkedin.com/in/mahesh-sangeet/">
+- 📫 How to contact me: <br>
+    :e-mail:	maheshsangeet0@gmail.com  &nbsp;
+   :iphone: 8660804309 &nbsp;
+   <a href="https://www.linkedin.com/in/mahesh-sangeet/">
         <img  alt="Mahesh's LinkedIN" height="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-     </a> |
+     </a> 
 
-
-   - :e-mail:	maheshsangeet0@gmail.com 
-   - :iphone: 8660804309 
-   - <a href="https://www.linkedin.com/in/mahesh-sangeet/">
-        <img align="left" alt="Mahesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-     </a>
-<!--    - <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshsangeet&label=Profile%20views&color=129e00&style=plastic" alt="maheshsangeet" /> </p> -->
-
-
-
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
+ &nbsp;
 ### Languages and Tools:
 
 <p align="left"> 
@@ -36,8 +44,8 @@
  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  alt="Visual Studio Code"   width="40" height="40"/>
-</p>
- 
+</p> 
+&nbsp;
 
 ---
 ### 👨‍💻Projects :
