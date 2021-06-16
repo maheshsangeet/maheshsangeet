@@ -12,27 +12,9 @@
  
 - 👀 I’m interested in `Front end development` <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"  width="500"              height="300" />
 - 🌱 I’m currently learning `React.js` 
-- 📫 How to contact me: 
-   <a href="maheshsangeet0@gmail.com "> :e-mail:</a> 
-   <a href="8660804309"> :iphone:</a> 
-   <a href="https://www.linkedin.com/in/mahesh-sangeet/">
-        <img  alt="Mahesh's LinkedIN" height="18px"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-     </a>
-
-<!--     :e-mail:	maheshsangeet0@gmail.com  &nbsp;
-   :iphone: 8660804309 &nbsp;
-   <a href="https://www.linkedin.com/in/mahesh-sangeet/">
-        <img  alt="Mahesh's LinkedIN" height="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-     </a>  -->
-
- &nbsp;
- &nbsp;
- &nbsp;
- &nbsp;
- &nbsp;
- &nbsp;
- &nbsp;
- &nbsp;
+- 📫 How to contact me: <br>
+     <a href="mailto:maheshsangeet0@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail.png" width="30px" alt="email"/></a>
+     <a href="https://www.linkedin.com/in/mahesh-sangeet/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="30px" alt="linkedin"/></a>
  &nbsp;
  &nbsp;
  &nbsp;
