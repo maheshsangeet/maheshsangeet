@@ -51,7 +51,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=maheshsangeet&show_icons=true&theme=gotham" alt="maheshsangeet" />
  &nbsp;&nbsp;
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshsangeet&theme=gotham" alt="maheshsangeet" />
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshsangeet&theme=gotham )
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshsangeet&hide=TeX&layout=compact)
 
 </p>
 
