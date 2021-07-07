@@ -51,7 +51,13 @@
  <img src="https://github-readme-stats.vercel.app/api?username=maheshsangeet&show_icons=true&theme=gotham" alt="maheshsangeet" />
  &nbsp;&nbsp;
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshsangeet&theme=gotham" alt="maheshsangeet" />
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshsangeet&theme=gotham )
+
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
  
  
  
