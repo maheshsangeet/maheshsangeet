@@ -33,8 +33,8 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="html" width="60" height="60"/>
- <img src="https://icongr.am/devicon/php-original.svg?size=148&color=currentColor" alt="html" width="50" height="50"/>
+<!--  <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="html" width="60" height="50"/> -->
+ <img src="https://icongr.am/devicon/php-original.svg?size=148&color=currentColor" alt="html" width="60" height="50"/>
 
  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="html" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width="40" height="40"/>
