@@ -87,9 +87,10 @@
 <!--END_SECTION:waka-->
 
  
- 
+<!-- 
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshsangeet&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshsangeet&theme=tokyonight)
  
 ![LCO Mascot](https://learncodeonline.in/mascot.png "LCO")
+-->
