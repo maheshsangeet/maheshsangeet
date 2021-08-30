@@ -43,30 +43,13 @@
 
 ---
 ### 👨‍💻Projects :
-<p align="left"> 
 - [My Portfolio](https://in0d3.csb.app/ "Portfolio") 
 - [IPhone calculator](https://maheshsangeet.github.io/calculator/)  
 - [Food menu demo single page]( https://maheshsangeet.github.io/responsive-single-page// "Food menu") 
 - [To Do List]( https://maheshsangeet.github.io/To_Do_List// "To Do List") 
 - [Rock Paper Scissor game]( https://maheshsangeet.github.io/Rock_Paper_Scissor_game// "Rock Paper Scissor game") 
 - [Bootstrap Template](https://maheshsangeet.github.io/Bootstrap-Templete/ "Bootstrap template")
-</p> 
-
-
-<p align="right"> 
 - [Bootstrap Template Coffee shop](https://maheshsangeet.github.io/Bootstrap_Template_Coffee_shop/ "Bootstrap Coffe shp template")
-</p> 
-
-
-
-
-
-<!-- <p align="left"> 
- <img src="https://github-readme-stats.vercel.app/api?username=maheshsangeet&show_icons=true&theme=gotham" alt="maheshsangeet" />
- &nbsp;&nbsp;
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshsangeet&theme=gotham" alt="maheshsangeet" />
- <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshsangeet&hide=html,&hide_border=true&title_color=5391FE&text_color=555" />
-</p> -->
 
 
 
@@ -89,14 +72,11 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=maheshsangeet&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
  
-<!-- 
+
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshsangeet&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshsangeet&theme=tokyonight)
  
-![LCO Mascot](https://learncodeonline.in/mascot.png "LCO")
--->
+<!-- ![LCO Mascot](https://learncodeonline.in/mascot.png "LCO") -->
+
