@@ -47,7 +47,7 @@
 - [IPhone calculator](https://maheshsangeet.github.io/calculator/)  
 - [Food menu demo single page]( https://maheshsangeet.github.io/responsive-single-page// "Food menu") 
 - [To Do List]( https://maheshsangeet.github.io/To_Do_List// "To Do List") 
-- [Rock Paper Scissor game]( https://maheshsangeet.github.io/Rock_Paper_Scissor_game// "Rock Paper Scissor game") 
+- [Rock Paper Scissor game]( https://maheshsangeet.github.io/Rock_Paper_Scissors_game// "Rock Paper Scissor game") 
 - [Bootstrap Template](https://maheshsangeet.github.io/Bootstrap-Templete/ "Bootstrap template")
 - [Bootstrap Template Coffee shop](https://maheshsangeet.github.io/Bootstrap_Template_Coffee_shop/ "Bootstrap Coffe shp template")
 
