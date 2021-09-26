@@ -44,14 +44,17 @@
 ---
 ### 👨‍💻Projects :
 - [My Portfolio](https://in0d3.csb.app/ "Portfolio") 
-- [IPhone calculator](https://maheshsangeet.github.io/calculator/)  
-- [Food menu demo single page]( https://maheshsangeet.github.io/responsive-single-page// "Food menu") 
-- [To Do List]( https://maheshsangeet.github.io/To_Do_List// "To Do List") 
 - [Rock Paper Scissor game]( https://maheshsangeet.github.io/Rock_Paper_Scissors_game// "Rock Paper Scissor game") 
+- [To Do List]( https://maheshsangeet.github.io/To_Do_List// "To Do List") 
+- [IPhone calculator](https://maheshsangeet.github.io/calculator/)  
+<!-- - [Memory Game](https://maheshsangeet.github.io/Memory_game/)   -->
+<!-- - [Image Slider](https://maheshsangeet.github.io/Image_slider/)   -->
+<!-- - [Hover me](https://maheshsangeet.github.io/Hover_me/)   -->
+<!-- - [Odd Even guessing game](https://maheshsangeet.github.io/Odd-Even_guessing_game/)   -->
+<!-- - [Odd Even number auto teller](https://maheshsangeet.github.io/Odd-Even_number_auto_teller/)   -->
+- [Food menu demo single page]( https://maheshsangeet.github.io/responsive-single-page// "Food menu") 
 - [Bootstrap Template](https://maheshsangeet.github.io/Bootstrap-Templete/ "Bootstrap template")
 - [Bootstrap Template Coffee shop](https://maheshsangeet.github.io/Bootstrap_Template_Coffee_shop/ "Bootstrap Coffe shp template")
-
-
 
 <p align=center>
   <div align=center>
