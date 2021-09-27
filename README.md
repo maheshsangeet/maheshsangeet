@@ -47,8 +47,8 @@
 - [Rock Paper Scissor game]( https://maheshsangeet.github.io/Rock_Paper_Scissors_game// "Rock Paper Scissor game") 
 - [To Do List]( https://maheshsangeet.github.io/To_Do_List// "To Do List") 
 - [IPhone calculator](https://maheshsangeet.github.io/calculator/)  
-<!-- - [Memory Game](https://maheshsangeet.github.io/Memory_game/)   -->
-<!-- - [Image Slider](https://maheshsangeet.github.io/Image_slider/)   -->
+- [Memory Game](https://maheshsangeet.github.io/Memory_game/)  
+- [Image Slider](https://maheshsangeet.github.io/Image_slider/)  
 <!-- - [Hover me](https://maheshsangeet.github.io/Hover_me/)   -->
 <!-- - [Odd Even guessing game](https://maheshsangeet.github.io/Odd-Even_guessing_game/)   -->
 <!-- - [Odd Even number auto teller](https://maheshsangeet.github.io/Odd-Even_number_auto_teller/)   -->
