@@ -50,7 +50,7 @@
 - [Memory Game](https://maheshsangeet.github.io/Memory_game/)  
 - [Image Slider](https://maheshsangeet.github.io/Image_slider/)  
 - [Hover me](https://maheshsangeet.github.io/Hover_me/)  
-<!-- - [Odd Even guessing game](https://maheshsangeet.github.io/Odd-Even_guessing_game/)   -->
+-  [Odd Even guessing game](https://maheshsangeet.github.io/Odd-Even_guessing_game/)  
 <!-- - [Odd Even number auto teller](https://maheshsangeet.github.io/Odd-Even_number_auto_teller/)   -->
 - [Food menu demo single page]( https://maheshsangeet.github.io/responsive-single-page// "Food menu") 
 - [Bootstrap Template](https://maheshsangeet.github.io/Bootstrap-Templete/ "Bootstrap template")
