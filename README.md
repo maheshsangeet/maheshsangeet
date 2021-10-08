@@ -12,7 +12,7 @@
  #### *Currently working as an intern at Sathvik Softech, a start-up,since six months on end-to-end website development.*
  
 - 👀 I’m interested in `Front end development` <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"  width="500"              height="300" />
-- 🌱 I’m currently focusing on `React.Js` 
+- 🌱 I’m currently focusing on `Js` 
 - 📫 How to contact me: <br>
      <a href="mailto:maheshsangeet0@gmail.com" ><img src="https://img.icons8.com/color/96/000000/gmail.png" width="30px" alt="email"/></a>
      <a href="https://www.linkedin.com/in/mahesh-sangeet/" ><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="30px" alt="linkedin"/></a>
