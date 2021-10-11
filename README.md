@@ -45,7 +45,7 @@
 ### 👨‍💻Projects :
 - [My Portfolio](https://in0d3.csb.app/ "Portfolio") 
 - [Rock Paper Scissor game]( https://maheshsangeet.github.io/Rock_Paper_Scissors_game// "Rock Paper Scissor game") 
-- [Tic Tac Toe game]( https://maheshsangeet.github.io/Tic_Tac_Toe_game// "Tic Tac Toe game") 
+- [Tic Tac Toe game]( https://maheshsangeet.github.io/Tic_Tac_Toe// "Tic Tac Toe") 
 - [To Do List]( https://maheshsangeet.github.io/To_Do_List// "To Do List") 
 - [IPhone calculator](https://maheshsangeet.github.io/calculator/)  
 - [Memory Game](https://maheshsangeet.github.io/Memory_game/)  
