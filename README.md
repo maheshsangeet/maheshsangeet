@@ -43,7 +43,7 @@
 
 ---
 ### 👨‍💻Projects :
-- [My Portfolio](https://https://mahesh-portfolio.vercel.app/ "Portfolio")
+- [My Portfolio](https://mahesh-portfolio.vercel.app/ "Portfolio")
 - [Rock Paper Scissor game]( https://maheshsangeet.github.io/Rock_Paper_Scissors_game// "Rock Paper Scissor game") 
 - [Tic Tac Toe]( https://maheshsangeet.github.io/Tic_Toc_Toe// "Tic Tac Toe") 
 - [To Do List]( https://maheshsangeet.github.io/To_Do_List// "To Do List") 
